@@ -1,18 +1,13 @@
 #include<stdio.h>
 int main()
 {
- int a;
+ int a,s;
   scanf("%d",&a);
- if("a>='a')&&("a<='z')||("a>='A')&&("a<='Z')
- {
-  printf("its albha");
- }
- else
- {
-  printf("its not albha");
- }
+ s=a*a*a;
+ printf("print s");
  return0;
 }
+
  
     
   
