@@ -1,10 +1,11 @@
 #include<stdio.h>
 int main()
 {
-int n,i;
-  
-  scanf("%d",&n);
-  for(i=1;i<n;i++)
-    printf("no is natural");
+  int a,b,n,k;
+  sum=k;
+  k=a+b;
+  scanf("%d",&n,&k);
+  printf("print sum");
   return0;
 }
+  
