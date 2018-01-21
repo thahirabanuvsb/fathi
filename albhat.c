@@ -1,9 +1,21 @@
 #include<stdio.h>
 int main()
 {
-  int n;
-  scanf("%d",&n);
-  for(i=0;i<=n;i++)
-    printf("hello");
-  return0;
+  int a,b,c;
+  scanf("%d""%d","%d",&a,&b,&c);
+  if(a>b)
+  {
+    if(a<c)
+    {
+      printf("no is greatest",a);
+      printf(" no is greatest,c);
+             }
+  
+  else
+  {
+    printf("the no is 
+   
+
 }
+           }
+           }
