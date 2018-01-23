@@ -2,16 +2,16 @@
 int main()
 {
 int n,i;
-  printf("enter the odd no 1to 50");
+  printf("enter the even no 1to 50");
   
   for(i=1;i<=50;i++)
     if(i%2==0)
     {
-      printf("no is even");
+      printf(%d",i);
     }
   else
   {
-    printf("ni is odd");
+    printf("no is odd");
   }
   return0;
 }
