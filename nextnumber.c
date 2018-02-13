@@ -1,8 +1,13 @@
 #include<stdio.h>
 int main()
 {
-int a,i;
-a=i+1;
-printf("%d is next no",a);
+  int a,n,sum=0;
+  while(n!=0)
+  {
+    a=n%10;
+    sum=sum+a;
+    a=a/10;
+  }
+  printf("%d add of two digits",sum);
 return 0;
 }
